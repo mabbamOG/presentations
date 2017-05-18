@@ -1,0 +1,69 @@
+#+TITLE: VISITARE LA CINA: @@latex:\\@@ 3 OTTIME RAGIONI
+#+AUTHOR: fufi
+#+OPTIONS: H:2 date:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+# tutti i prossimi comandi aggiungono solo un po' di temi
+#+LATEX_HEADER: \usetheme{Singapore}
+#+LATEX_HEADER: \usecolortheme{crane}
+#+LATEX_HEADER: \definecolor{giallino}{HTML}{F9F6E0}
+#+LATEX_HEADER: \setbeamercolor{background canvas}{bg=giallino}
+#+LATEX_HEADER: \usefonttheme{structurebold}
+
+* CULTURA E TRADIZIONE
+** CULTURA E TRADIZIONE
+   sedersi fa bene
+[[./immagini/uomo_seduto.jpg]]
+** ci sono tanti bei uomini!
+[[./immagini/faccia_uomo.jpg]]
+** edifici
+[[./immagini/piccola_torre.jpg]]
+** edifici con persone
+[[./immagini/grande_torre.jpg]]
+** edfici *fra* persone
+[[./immagini/torri_ovunque.jpg]]
+** edifici per pregare
+[[./immagini/budda.jpg]]
+** donne da pregare
+[[./immagini/gnocca.jpg]]
+** preghiera di gruppo
+[[./immagini/gnocche.jpg]]
+** preghiera in solitario
+[[./immagini/gnocca_volante.jpg]]
+* CUCINA
+** CUCINA
+[[./immagini/spaghetti.jpg]]
+** spaghettini
+[[./immagini/udon.jpg]]
+** diete
+[[./immagini/tofu.jpg]]
+** zuppetteeeeeeeeee
+[[./immagini/zuppetta:3.jpg]]
+** a mia mamma piacciono
+[[./immagini/pollo.jpg]]
+** all you can eat
+[[./immagini/mix.jpg]]
+* NATURA
+** NATURA
+[[./immagini/bosco.jpg]]
+** sassi
+[[./immagini/montagna.jpg]]
+** acque
+[[./immagini/lago.jpg]]
+** acque grandi
+[[./immagini/lago_uomini.jpg]]
+** acque sui sassi
+[[./immagini/cascata_vicina.jpg]]
+** acque sui sassi grandi
+[[./immagini/cascata_lontana.jpg]]
+** nasa
+[[./immagini/marte_lontano.jpg]]
+** atterraggio su marte
+[[./immagini/marte_vicino.jpg]]
+** workout sui sassi
+[[./immagini/scale.jpg]]
+** sassi con nuvole
+[[./immagini/nuvole.jpg]]
+** 
+** cibo 2.0?
+[[./immagini/pandas.jpg]]
